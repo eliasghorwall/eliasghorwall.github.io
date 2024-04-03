@@ -1,0 +1,1 @@
+!function(o){const n=o(".why-choose"),t=o(".services");o("#about-link").on("click",(function(){o("html").animate({scrollTop:n.offset().top},800)})),o("#leistungen-link").on("click",(function(){o("html").animate({scrollTop:t.offset().top},800)}))}();
